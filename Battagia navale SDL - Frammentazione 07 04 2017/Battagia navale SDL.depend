@@ -1,0 +1,1393 @@
+# depslib dependency file v1.0
+1490193932 source:m:\informatica\c++\battagia navale sdl\main.cpp
+	<iostream>
+	"gioco.h"
+
+1490192254 m:\informatica\c++\battagia navale sdl\include\gioco.h
+	"configurazione.h"
+
+1490217040 m:\informatica\c++\battagia navale sdl\include\configurazione.h
+	<string>
+	<functional>
+	"sdl_fondamentals.h"
+	"tabella_battaglia_navale.h"
+	<SDL.h>
+
+1490217038 m:\informatica\c++\battagia navale sdl\include\tabella_battaglia_navale.h
+	<vector>
+	"indice_cella.h"
+	"nave.h"
+
+1489861014 m:\informatica\c++\battagia navale sdl\include\indice_cella.h
+
+1490192790 m:\informatica\c++\battagia navale sdl\include\nave.h
+	<vector>
+	<stdexcept>
+	"indice_cella.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\begin_code.h
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\close_code.h
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764694 m:\informatica\mingw_dev_lib\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1490216386 m:\informatica\c++\battagia navale sdl\include\sdl_fondamentals.h
+	<string>
+	<stdexcept>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1451800374 m:\informatica\mingw_dev_lib\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454362934 m:\informatica\mingw_dev_lib\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1490216000 source:m:\informatica\c++\battagia navale sdl\src\configurazione.cpp
+	"configurazione.h"
+
+1490192148 source:m:\informatica\c++\battagia navale sdl\src\gioco.cpp
+	"gioco.h"
+
+1489861014 source:m:\informatica\c++\battagia navale sdl\src\indice_cella.cpp
+	"indice_cella.h"
+
+1490192944 source:m:\informatica\c++\battagia navale sdl\src\nave.cpp
+	"nave.h"
+
+1490216598 source:m:\informatica\c++\battagia navale sdl\src\sdl_fondamentals.cpp
+	"sdl_fondamentals.h"
+
+1490193500 source:m:\informatica\c++\battagia navale sdl\src\tabella_battaglia_navale.cpp
+	"tabella_battaglia_navale.h"
+
+1491335626 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl\main.cpp
+	<iostream>
+	"include\gioco.h"
+
+1491063466 g:\marco - progetti in fase di sviluppo\battagia navale sdl\include\gioco.h
+	"configurazione.h"
+
+1491165508 g:\marco - progetti in fase di sviluppo\battagia navale sdl\include\configurazione.h
+	<string>
+	<functional>
+	<utility>
+	<cstdio>
+	"sdl_fondamentals.h"
+	"tabella_battaglia_navale.h"
+	<SDL.h>
+
+1491393517 g:\marco - progetti in fase di sviluppo\battagia navale sdl\include\sdl_fondamentals.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<algorithm>
+	<cstring>
+	<utility>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"sdl_colors.h"
+	"manipolazione_testi.h"
+
+1491165101 g:\marco - progetti in fase di sviluppo\battagia navale sdl\include\tabella_battaglia_navale.h
+	<vector>
+	<algorithm>
+	"indice_cella.h"
+	"nave.h"
+
+1490790452 g:\marco - progetti in fase di sviluppo\battagia navale sdl\include\indice_cella.h
+	<ctime>
+	<cstdlib>
+
+1490469804 g:\marco - progetti in fase di sviluppo\battagia navale sdl\include\nave.h
+	<vector>
+	<stdexcept>
+	"indice_cella.h"
+
+1491165508 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl\src\gioco.cpp
+	"..\include\gioco.h"
+
+1490790452 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl\src\indice_cella.cpp
+	"..\include\indice_cella.h"
+
+1490985563 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl\src\nave.cpp
+	"..\include\nave.h"
+
+1491393517 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl\src\sdl_fondamentals.cpp
+	"..\include\sdl_fondamentals.h"
+
+1491166819 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl\src\configurazione.cpp
+	"..\include\configurazione.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\begin_code.h
+
+1451768294 c:\mingw_dev_lib\include\sdl2\close_code.h
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\mingw_dev_lib\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451803974 c:\mingw_dev_lib\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 c:\mingw_dev_lib\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1491166022 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl\src\tabella_battaglia_navale.cpp
+	"..\include\tabella_battaglia_navale.h"
+
+1491076474 g:\marco - progetti in fase di sviluppo\battagia navale sdl\include\sdl_colors.h
+	"SDL.h"
+
+1490877425 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl\src\sdl_colors.cpp
+	"../include/sdl_colors.h"
+
+1491033355 source:c:\users\massi_000\desktop\battagia navale sdl\main.cpp
+	<iostream>
+	"include\gioco.h"
+
+1490966583 c:\users\massi_000\desktop\battagia navale sdl\include\gioco.h
+	"configurazione.h"
+
+1491041261 c:\users\massi_000\desktop\battagia navale sdl\include\configurazione.h
+	<string>
+	<functional>
+	<utility>
+	<cstdio>
+	"sdl_fondamentals.h"
+	"tabella_battaglia_navale.h"
+	<SDL.h>
+
+1491041441 c:\users\massi_000\desktop\battagia navale sdl\include\sdl_fondamentals.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<algorithm>
+	<cstring>
+	<utility>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"sdl_colors.h"
+
+1490881263 c:\users\massi_000\desktop\battagia navale sdl\include\sdl_colors.h
+	"SDL.h"
+
+1490984076 c:\users\massi_000\desktop\battagia navale sdl\include\tabella_battaglia_navale.h
+	<vector>
+	<algorithm>
+	"indice_cella.h"
+	"nave.h"
+
+1490794052 c:\users\massi_000\desktop\battagia navale sdl\include\indice_cella.h
+	<ctime>
+	<cstdlib>
+
+1490469804 c:\users\massi_000\desktop\battagia navale sdl\include\nave.h
+	<vector>
+	<stdexcept>
+	"indice_cella.h"
+
+1491041276 source:c:\users\massi_000\desktop\battagia navale sdl\src\configurazione.cpp
+	"..\include\configurazione.h"
+
+1490794052 source:c:\users\massi_000\desktop\battagia navale sdl\src\indice_cella.cpp
+	"..\include\indice_cella.h"
+
+1490989163 source:c:\users\massi_000\desktop\battagia navale sdl\src\nave.cpp
+	"..\include\nave.h"
+
+1490881025 source:c:\users\massi_000\desktop\battagia navale sdl\src\sdl_colors.cpp
+	"../include/sdl_colors.h"
+
+1491041328 source:c:\users\massi_000\desktop\battagia navale sdl\src\sdl_fondamentals.cpp
+	"..\include\sdl_fondamentals.h"
+
+1490989163 source:c:\users\massi_000\desktop\battagia navale sdl\src\tabella_battaglia_navale.cpp
+	"..\include\tabella_battaglia_navale.h"
+
+1491033226 source:c:\users\massi_000\desktop\battagia navale sdl\src\gioco.cpp
+	"..\include\gioco.h"
+
+1491227901 g:\marco - progetti in fase di sviluppo\battagia navale sdl\include\manipolazione_testi.h
+	<cstring>
+	<string>
+	<vector>
+
+1491335602 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl\src\manipolazione_testi.cpp
+	"..\include\manipolazione_testi.h"
+
+1491513215 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\main.cpp
+	<iostream>
+	"include\gioco.h"
+	"include\manipolazione_testi.h"
+
+1491063466 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\gioco.h
+	"configurazione.h"
+
+1491513242 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\configurazione.h
+	<string>
+	<functional>
+	<utility>
+	<cstdio>
+	"sdl_strumenti.h"
+	"tabella_battaglia_navale.h"
+	<SDL.h>
+
+1491428094 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\sdl_fondamentals.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<algorithm>
+	<cstring>
+	<utility>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"sdl_colors.h"
+
+1491076474 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\sdl_colors.h
+	"SDL.h"
+
+1491227901 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\manipolazione_testi.h
+	<cstring>
+	<string>
+	<vector>
+
+1491165101 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\tabella_battaglia_navale.h
+	<vector>
+	<algorithm>
+	"indice_cella.h"
+	"nave.h"
+
+1490790452 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\indice_cella.h
+	<ctime>
+	<cstdlib>
+
+1490469804 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\nave.h
+	<vector>
+	<stdexcept>
+	"indice_cella.h"
+
+1491166819 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\configurazione.cpp
+	"..\include\configurazione.h"
+
+1491165508 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\gioco.cpp
+	"..\include\gioco.h"
+
+1490790452 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\indice_cella.cpp
+	"..\include\indice_cella.h"
+
+1491335602 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\manipolazione_testi.cpp
+	"..\include\manipolazione_testi.h"
+
+1490985563 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\nave.cpp
+	"..\include\nave.h"
+
+1490877425 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\sdl_colors.cpp
+	"../include/sdl_colors.h"
+
+1491166022 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\tabella_battaglia_navale.cpp
+	"..\include\tabella_battaglia_navale.h"
+
+1491396331 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\sdl_strumenti.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"sdl_fondamentals.h"
+	"sdl_colors.h"
+	"sdl_riquadro.h"
+	"sdl_pulsante.h"
+	"sdl_rettangolo_bordato.h"
+	"sdl_varie.h"
+
+1491428094 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\sdl_riquadro.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<SDL.h>
+	<SDL_ttf.h>
+	"sdl_varie.h"
+	"sdl_testi_multiliea.h"
+
+1491395380 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\sdl_pulsante.h
+	"sdl_riquadro.h"
+
+1491396440 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\sdl_varie.h
+	<string.h>
+	<SDL.h>
+
+1491396382 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\sdl_rettangolo_bordato.h
+	<string>
+	<stdexcept>
+	<SDL.h>
+	"sdl_varie.h"
+
+1491396288 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\sdl_fondamentals.cpp
+	"..\include\sdl_fondamentals.h"
+
+1491395380 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\sdl_pulsante.cpp
+	"sdl_pulsante.h"
+
+1491396101 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\sdl_rettangolo_bordato.cpp
+	"sdl_rettangolo_bordato.h"
+
+1491511567 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\sdl_riquadro.cpp
+	"sdl_riquadro.h"
+
+1491512580 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\include\sdl_testi_multiliea.h
+	<string>
+	<cstring>
+	<stdexcept>
+	<SDL.h>
+	<SDL_ttf.h>
+	"sdl_varie.h"
+	"manipolazione_testi.h"
+
+1491396288 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\sdl_varie.cpp
+	"../include/sdl_varie.h"
+
+1491513114 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione\src\sdl_testi_multiliea.cpp
+	"../include/sdl_testi_multiliea.h"
+
+1491516815 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\main.cpp
+	<iostream>
+	"include\gioco.h"
+	"include\manipolazione_testi.h"
+
+1491067066 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\gioco.h
+	"configurazione.h"
+
+1491516842 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\configurazione.h
+	<string>
+	<functional>
+	<utility>
+	<cstdio>
+	"sdl_strumenti.h"
+	"tabella_battaglia_navale.h"
+	<SDL.h>
+
+1491399931 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\sdl_strumenti.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"sdl_fondamentals.h"
+	"sdl_colors.h"
+	"sdl_riquadro.h"
+	"sdl_pulsante.h"
+	"sdl_rettangolo_bordato.h"
+	"sdl_varie.h"
+
+1491582490 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\sdl_fondamentals.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<algorithm>
+	<cstring>
+	<utility>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"sdl_colors.h"
+
+1491080074 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\sdl_colors.h
+	"SDL.h"
+
+1491579182 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\sdl_riquadro.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<SDL.h>
+	<SDL_ttf.h>
+	"sdl_varie.h"
+	"sdl_testi_multiliea.h"
+
+1491400040 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\sdl_varie.h
+	<string.h>
+	<SDL.h>
+
+1491516180 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\sdl_testi_multiliea.h
+	<string>
+	<cstring>
+	<stdexcept>
+	<SDL.h>
+	<SDL_ttf.h>
+	"sdl_varie.h"
+	"manipolazione_testi.h"
+
+1491231501 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\manipolazione_testi.h
+	<cstring>
+	<string>
+	<vector>
+
+1491579182 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\sdl_pulsante.h
+	"sdl_riquadro.h"
+
+1491399982 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\sdl_rettangolo_bordato.h
+	<string>
+	<stdexcept>
+	<SDL.h>
+	"sdl_varie.h"
+
+1491168701 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\tabella_battaglia_navale.h
+	<vector>
+	<algorithm>
+	"indice_cella.h"
+	"nave.h"
+
+1490794052 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\indice_cella.h
+	<ctime>
+	<cstdlib>
+
+1490469804 c:\users\massi_000\desktop\battagia navale sdl - frammentazione\include\nave.h
+	<vector>
+	<stdexcept>
+	"indice_cella.h"
+
+1491169108 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\gioco.cpp
+	"..\include\gioco.h"
+
+1490794052 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\indice_cella.cpp
+	"..\include\indice_cella.h"
+
+1491339202 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\manipolazione_testi.cpp
+	"..\include\manipolazione_testi.h"
+
+1490989163 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\nave.cpp
+	"..\include\nave.h"
+
+1490881025 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\sdl_colors.cpp
+	"../include/sdl_colors.h"
+
+1491399888 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\sdl_fondamentals.cpp
+	"..\include\sdl_fondamentals.h"
+
+1491398980 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\sdl_pulsante.cpp
+	"sdl_pulsante.h"
+
+1491399701 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\sdl_rettangolo_bordato.cpp
+	"sdl_rettangolo_bordato.h"
+
+1491516714 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\sdl_testi_multiliea.cpp
+	"../include/sdl_testi_multiliea.h"
+
+1491399888 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\sdl_varie.cpp
+	"../include/sdl_varie.h"
+
+1491169622 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\tabella_battaglia_navale.cpp
+	"..\include\tabella_battaglia_navale.h"
+
+1491583402 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\configurazione.cpp
+	"..\include\configurazione.h"
+
+1491582320 source:c:\users\massi_000\desktop\battagia navale sdl - frammentazione\src\sdl_riquadro.cpp
+	"sdl_riquadro.h"
+
+1491579814 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\main.cpp
+	<iostream>
+	"include\gioco.h"
+	"include\manipolazione_testi.h"
+
+1491063466 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\gioco.h
+	"configurazione.h"
+
+1491601736 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\configurazione.h
+	<string>
+	<functional>
+	<utility>
+	<cstdio>
+	"sdl_strumenti.h"
+	"tabella_battaglia_navale.h"
+	<SDL.h>
+
+1491396331 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\sdl_strumenti.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"sdl_fondamentals.h"
+	"sdl_colors.h"
+	"sdl_riquadro.h"
+	"sdl_pulsante.h"
+	"sdl_rettangolo_bordato.h"
+	"sdl_varie.h"
+
+1491600314 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\sdl_fondamentals.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<algorithm>
+	<cstring>
+	<utility>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"sdl_colors.h"
+
+1491775515 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\sdl_colors.h
+	"SDL.h"
+
+1491773285 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\sdl_riquadro.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<SDL.h>
+	<SDL_ttf.h>
+	"sdl_varie.h"
+	"sdl_testi_multiliea.h"
+
+1491772637 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\sdl_varie.h
+	<string.h>
+	<SDL.h>
+
+1491512580 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\sdl_testi_multiliea.h
+	<string>
+	<cstring>
+	<stdexcept>
+	<SDL.h>
+	<SDL_ttf.h>
+	"sdl_varie.h"
+	"manipolazione_testi.h"
+
+1491227901 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\manipolazione_testi.h
+	<cstring>
+	<string>
+	<vector>
+
+1491600447 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\sdl_pulsante.h
+	"sdl_riquadro.h"
+
+1491396382 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\sdl_rettangolo_bordato.h
+	<string>
+	<stdexcept>
+	<SDL.h>
+	"sdl_varie.h"
+
+1491601305 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\tabella_battaglia_navale.h
+	<vector>
+	<algorithm>
+	"indice_cella.h"
+	"nave.h"
+
+1490790452 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\indice_cella.h
+	<ctime>
+	<cstdlib>
+
+1490469804 g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\include\nave.h
+	<vector>
+	<stdexcept>
+	"indice_cella.h"
+
+1491165508 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\gioco.cpp
+	"..\include\gioco.h"
+
+1490790452 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\indice_cella.cpp
+	"..\include\indice_cella.h"
+
+1491335602 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\manipolazione_testi.cpp
+	"..\include\manipolazione_testi.h"
+
+1490985563 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\nave.cpp
+	"..\include\nave.h"
+
+1490877425 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\sdl_colors.cpp
+	"../include/sdl_colors.h"
+
+1491396288 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\sdl_fondamentals.cpp
+	"..\include\sdl_fondamentals.h"
+
+1491395380 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\sdl_pulsante.cpp
+	"sdl_pulsante.h"
+
+1491396101 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\sdl_rettangolo_bordato.cpp
+	"sdl_rettangolo_bordato.h"
+
+1491773390 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\sdl_riquadro.cpp
+	"sdl_riquadro.h"
+
+1491513114 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\sdl_testi_multiliea.cpp
+	"../include/sdl_testi_multiliea.h"
+
+1491773530 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\sdl_varie.cpp
+	"../include/sdl_varie.h"
+
+1491601305 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\tabella_battaglia_navale.cpp
+	"..\include\tabella_battaglia_navale.h"
+
+1491773963 source:g:\marco - progetti in fase di sviluppo\battagia navale sdl - frammentazione 07 04 2017\src\configurazione.cpp
+	"..\include\configurazione.h"
+
+1491579814 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\main.cpp
+	<iostream>
+	"include\gioco.h"
+	"include\manipolazione_testi.h"
+
+1491063466 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\gioco.h
+	"configurazione.h"
+
+1491601736 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\configurazione.h
+	<string>
+	<functional>
+	<utility>
+	<cstdio>
+	"sdl_strumenti.h"
+	"tabella_battaglia_navale.h"
+	<SDL.h>
+
+1491396331 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\sdl_strumenti.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"sdl_fondamentals.h"
+	"sdl_colors.h"
+	"sdl_riquadro.h"
+	"sdl_pulsante.h"
+	"sdl_rettangolo_bordato.h"
+	"sdl_varie.h"
+
+1491815934 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\sdl_fondamentals.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<algorithm>
+	<cstring>
+	<utility>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"sdl_colors.h"
+
+1491775515 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\sdl_colors.h
+	"SDL.h"
+
+1491773285 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\sdl_riquadro.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<SDL.h>
+	<SDL_ttf.h>
+	"sdl_varie.h"
+	"sdl_testi_multiliea.h"
+
+1491772637 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\sdl_varie.h
+	<string.h>
+	<SDL.h>
+
+1491512580 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\sdl_testi_multiliea.h
+	<string>
+	<cstring>
+	<stdexcept>
+	<SDL.h>
+	<SDL_ttf.h>
+	"sdl_varie.h"
+	"manipolazione_testi.h"
+
+1491227901 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\manipolazione_testi.h
+	<cstring>
+	<string>
+	<vector>
+
+1491600447 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\sdl_pulsante.h
+	"sdl_riquadro.h"
+
+1491396382 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\sdl_rettangolo_bordato.h
+	<string>
+	<stdexcept>
+	<SDL.h>
+	"sdl_varie.h"
+
+1491815858 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\tabella_battaglia_navale.h
+	<vector>
+	<algorithm>
+	"indice_cella.h"
+	"nave.h"
+
+1490790452 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\indice_cella.h
+	<ctime>
+	<cstdlib>
+
+1490469804 c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\include\nave.h
+	<vector>
+	<stdexcept>
+	"indice_cella.h"
+
+1491773963 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\configurazione.cpp
+	"..\include\configurazione.h"
+
+1491165508 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\gioco.cpp
+	"..\include\gioco.h"
+
+1490790452 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\indice_cella.cpp
+	"..\include\indice_cella.h"
+
+1491335602 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\manipolazione_testi.cpp
+	"..\include\manipolazione_testi.h"
+
+1490985563 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\nave.cpp
+	"..\include\nave.h"
+
+1490877425 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\sdl_colors.cpp
+	"../include/sdl_colors.h"
+
+1491396288 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\sdl_fondamentals.cpp
+	"..\include\sdl_fondamentals.h"
+
+1491395380 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\sdl_pulsante.cpp
+	"sdl_pulsante.h"
+
+1491396101 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\sdl_rettangolo_bordato.cpp
+	"sdl_rettangolo_bordato.h"
+
+1491773390 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\sdl_riquadro.cpp
+	"sdl_riquadro.h"
+
+1491513114 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\sdl_testi_multiliea.cpp
+	"../include/sdl_testi_multiliea.h"
+
+1491773530 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\sdl_varie.cpp
+	"../include/sdl_varie.h"
+
+1491601305 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\tabella_battaglia_navale.cpp
+	"..\include\tabella_battaglia_navale.h"
+

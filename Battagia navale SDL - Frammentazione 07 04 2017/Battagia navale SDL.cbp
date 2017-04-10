@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Battagia navale SDL" />
+		<Option platforms="Windows;" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option platforms="Windows;" />
+				<Option output="bin/Debug/Battagia navale SDL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add directory="C:/mingw_dev_lib/include/SDL2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image  -lSDL2_ttf" />
+					<Add directory="C:/mingw_dev_lib/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Battagia navale SDL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add option="-fexceptions" />
+			<Add directory="../../mingw_dev_lib/include/SDL2" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image" />
+			<Add directory="../../mingw_dev_lib/lib" />
+		</Linker>
+		<Unit filename="include/configurazione.h" />
+		<Unit filename="include/gioco.h" />
+		<Unit filename="include/indice_cella.h" />
+		<Unit filename="include/manipolazione_testi.h" />
+		<Unit filename="include/nave.h" />
+		<Unit filename="include/sdl_colors.h" />
+		<Unit filename="include/sdl_fondamentals.h" />
+		<Unit filename="include/sdl_pulsante.h" />
+		<Unit filename="include/sdl_rettangolo_bordato.h" />
+		<Unit filename="include/sdl_riquadro.h" />
+		<Unit filename="include/sdl_strumenti.h" />
+		<Unit filename="include/sdl_testi_multiliea.h" />
+		<Unit filename="include/sdl_varie.h" />
+		<Unit filename="include/tabella_battaglia_navale.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/configurazione.cpp" />
+		<Unit filename="src/gioco.cpp" />
+		<Unit filename="src/indice_cella.cpp" />
+		<Unit filename="src/manipolazione_testi.cpp" />
+		<Unit filename="src/nave.cpp" />
+		<Unit filename="src/sdl_colors.cpp" />
+		<Unit filename="src/sdl_fondamentals.cpp" />
+		<Unit filename="src/sdl_pulsante.cpp" />
+		<Unit filename="src/sdl_rettangolo_bordato.cpp" />
+		<Unit filename="src/sdl_riquadro.cpp" />
+		<Unit filename="src/sdl_testi_multiliea.cpp" />
+		<Unit filename="src/sdl_varie.cpp" />
+		<Unit filename="src/tabella_battaglia_navale.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
