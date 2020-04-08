@@ -37,8 +37,8 @@ class Configurazione : public virtual SDL_Fondamentals
     class Griglia_battaglia_navale : public Tabella_battaglia_navale//Estende la classe tabella per aggiungerci una funzione disegna e basta
     {
         SDL_Color colore_navi {143, 0, 255, 255};//Il viola è impostato particolarmente a caso
-        SDL_Color colore_celle_acqua { My_SDL_colors::blue };
-        SDL_Color colore_celle_boom  { My_SDL_colors::orange };
+        SDL_Color colore_celle_acqua = My_SDL_colors::blue;// { My_SDL_colors::blue };
+        SDL_Color colore_celle_boom  = My_SDL_colors::orange;// { My_SDL_colors::orange };
 
         Rettangolo_bordato casella_bordata(Indice_cella i) const;//Restituisce un rettangolo bordato relativo a una determinata cella
         void disegna_celle_colpo_a_segno(SDL_Renderer* r, int spessore_linee) const;

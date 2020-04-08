@@ -16,12 +16,16 @@
 				<Compiler>
 					<Add option="-std=c++11" />
 					<Add option="-g" />
-					<Add directory="C:/mingw_dev_lib/include/SDL2" />
+					<Add directory="SDL2/SDL2-2.0.12/i686-w64-mingw32/include/SDL2" />
+					<Add directory="SDL2/SDL2_ttf-2.0.15/i686-w64-mingw32/include/SDL2" />
+					<Add directory="SDL2/SDL2_image-2.0.5/i686-w64-mingw32/include/SDL2" />
 					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image  -lSDL2_ttf" />
-					<Add directory="C:/mingw_dev_lib/lib" />
+					<Add directory="SDL2/SDL2-2.0.12/i686-w64-mingw32/lib" />
+					<Add directory="SDL2/SDL2_ttf-2.0.15/i686-w64-mingw32/lib" />
+					<Add directory="SDL2/SDL2_image-2.0.5/i686-w64-mingw32/lib" />
 				</Linker>
 			</Target>
 			<Target title="Release">
@@ -42,7 +46,9 @@
 			<Add option="-Wall" />
 			<Add option="-std=c++11" />
 			<Add option="-fexceptions" />
-			<Add directory="../../mingw_dev_lib/include/SDL2" />
+			<Add directory="SDL2/SDL2-2.0.12/i686-w64-mingw32/include/SDL2" />
+			<Add directory="SDL2/SDL2_ttf-2.0.15" />
+			<Add directory="SDL2/SDL2_image-2.0.5/i686-w64-mingw32/include/SDL2" />
 		</Compiler>
 		<Linker>
 			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image" />

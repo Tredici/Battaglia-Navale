@@ -1391,3 +1391,502 @@
 1491601305 source:c:\users\99i_mangiacapre_ma\desktop\battagia navale sdl - frammentazione 07 04 2017\src\tabella_battaglia_navale.cpp
 	"..\include\tabella_battaglia_navale.h"
 
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\main.cpp
+	<iostream>
+	"include\gioco.h"
+	"include\manipolazione_testi.h"
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\gioco.h
+	"configurazione.h"
+
+1586256096 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\configurazione.h
+	<string>
+	<functional>
+	<utility>
+	<cstdio>
+	"sdl_strumenti.h"
+	"tabella_battaglia_navale.h"
+	<SDL.h>
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\sdl_strumenti.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"sdl_fondamentals.h"
+	"sdl_colors.h"
+	"sdl_riquadro.h"
+	"sdl_pulsante.h"
+	"sdl_rettangolo_bordato.h"
+	"sdl_varie.h"
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\sdl_fondamentals.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<algorithm>
+	<cstring>
+	<utility>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"sdl_colors.h"
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\sdl_colors.h
+	"SDL.h"
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\sdl_riquadro.h
+	<string>
+	<stdexcept>
+	<cmath>
+	<SDL.h>
+	<SDL_ttf.h>
+	"sdl_varie.h"
+	"sdl_testi_multiliea.h"
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\sdl_varie.h
+	<string.h>
+	<SDL.h>
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\sdl_testi_multiliea.h
+	<string>
+	<cstring>
+	<stdexcept>
+	<SDL.h>
+	<SDL_ttf.h>
+	"sdl_varie.h"
+	"manipolazione_testi.h"
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\manipolazione_testi.h
+	<cstring>
+	<string>
+	<vector>
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\sdl_pulsante.h
+	"sdl_riquadro.h"
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\sdl_rettangolo_bordato.h
+	<string>
+	<stdexcept>
+	<SDL.h>
+	"sdl_varie.h"
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\tabella_battaglia_navale.h
+	<vector>
+	<algorithm>
+	"indice_cella.h"
+	"nave.h"
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\indice_cella.h
+	<ctime>
+	<cstdlib>
+
+1586255029 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\include\nave.h
+	<vector>
+	<stdexcept>
+	"indice_cella.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\configurazione.cpp
+	"..\include\configurazione.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\gioco.cpp
+	"..\include\gioco.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\indice_cella.cpp
+	"..\include\indice_cella.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\manipolazione_testi.cpp
+	"..\include\manipolazione_testi.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\nave.cpp
+	"..\include\nave.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\sdl_colors.cpp
+	"../include/sdl_colors.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\sdl_fondamentals.cpp
+	"..\include\sdl_fondamentals.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\sdl_pulsante.cpp
+	"sdl_pulsante.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\sdl_rettangolo_bordato.cpp
+	"sdl_rettangolo_bordato.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\sdl_riquadro.cpp
+	"sdl_riquadro.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\sdl_testi_multiliea.cpp
+	"../include/sdl_testi_multiliea.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\sdl_varie.cpp
+	"../include/sdl_varie.h"
+
+1586255029 source:c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\src\tabella_battaglia_navale.cpp
+	"..\include\tabella_battaglia_navale.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\close_code.h
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894277 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894278 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2-2.0.12\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561873968 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547325851 c:\users\marco\documents\github\battaglia-navale\battagia navale sdl - frammentazione 07 04 2017\sdl2\sdl2_ttf-2.0.15\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
